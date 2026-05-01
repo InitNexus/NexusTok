@@ -11,22 +11,22 @@ While the website displays collected information, some human interaction is need
 ### Anlytics & Statistics
 Below, is a full list of all supported platforms along with the information that can be collected:
 
-***Facebook***
-***Instagram***
-***Threads***
-***WhatsApp***
-***Telegram***
-***X***
-***SnapChat***
-***TikTok***
-***Discord***
-***YouTube***
-***Reddit***
-***Pinterest***
-***Twitch***
-***Kik***
-***Spotify***
-***SoundCloud***
+***Facebook***  
+***Instagram***  
+***Threads***  
+***WhatsApp***  
+***Telegram***  
+***X***  
+***SnapChat***  
+***TikTok***  
+***Discord***  
+***YouTube***  
+***Reddit***  
+***Pinterest***  
+***Twitch***  
+***Kik***  
+***Spotify***  
+***SoundCloud***  
 
 Please be aware that some of the information listed **does** require an API key to be collected (unofficial and third party API's and wrappers are used but these aren't as reliable).
 
