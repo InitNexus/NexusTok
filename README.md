@@ -1,3 +1,5 @@
+<img width="1669" height="609" alt="RoundedCroppedBanner" src="https://github.com/user-attachments/assets/65bc60e0-69a1-40ec-813b-7fcf9de7e35d" />
+
 ### Introduction
 Welcome to the **NexusByte Analyst** repository. An all-in-one data, analytics and statistics collection / lookup tool for all major social media platforms. This repository also contains a database of collected information in the form of a website. The goal is to display what information can be collected from profiles on each platform and how it can be used.  
 
